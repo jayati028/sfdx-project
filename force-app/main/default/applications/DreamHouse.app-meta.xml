@@ -18,10 +18,10 @@
     <formFactors>Large</formFactors>
     <label>DreamHouse</label>
     <navType>Standard</navType>
-    <tab>standard-home</tab>
+    <!--<tab>standard-home</tab>
     <tab>Property__c</tab>
     <tab>Broker__c</tab>
     <tab>standard-Contact</tab>
-    <tab>Sample_Data_Import</tab>
+    <tab>Sample_Data_Import</tab>-->
     <uiType>Lightning</uiType>
 </CustomApplication>
